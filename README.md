@@ -77,13 +77,13 @@ A aplicação estará disponível em `http://localhost:3000`.
 
 ### 📘 Books
 
-| Método | Rota        | Descrição               | Protegido? |
-|--------|-------------|-------------------------|------------|
-| GET    | `/books`    | Lista todos os livros   | ✅ Sim      |
-| POST   | `/books`    | Cria um novo livro      | ✅ Sim      |
-| GET    | `/books/:id`| Retorna um livro        | ✅ Sim      |
-| PUT    | `/books/:id`| Atualiza um livro       | ✅ Sim      |
-| DELETE | `/books/:id`| Remove um livro         | ✅ Sim      |
+| Método | Rota        | Descrição               | 
+|--------|-------------|-------------------------|
+| GET    | `/books`    | Lista todos os livros   | 
+| POST   | `/books`    | Cria um novo livro      | 
+| GET    | `/books/:id`| Retorna um livro        | 
+| PUT    | `/books/:id`| Atualiza um livro       | 
+| DELETE | `/books/:id`| Remove um livro         | 
 
 ### 👤 Users
 
