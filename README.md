@@ -134,6 +134,3 @@ Este projeto está sob a licença MIT.
 
 ---
 
-## ✍️ Autor
-
-Desenvolvido por [Lucas Roncon](https://github.com/seu-usuario).
